@@ -1,4 +1,4 @@
-Official GNOME Shell theme for href="https://plus.google.com/u/1/106032883034976894631/posts/HA3CPujpTBW"Royce OS.
+Official GNOME Shell theme for Royce OS.
 
 #Installation
 
